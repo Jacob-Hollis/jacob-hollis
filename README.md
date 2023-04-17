@@ -1,5 +1,7 @@
-<h1 style="text-align: center;">Hi there, welcome to my GitHub portfolio 👋</h1>
-<h3 style="text-align: center;">Full Stack Software Engineer</h3>
+<h5 align=center>Hey there, I'm Jake 👋</h5>
+<h3 align=center>I'm a Full Stack Software Engineer</h3>
+
+#### 🤝 Connect with me:
 
 Here you'll find projects I enjoy building to learn web technologies like HTML, CSS, Javascript, Ruby, Ruby on Rails, and React 🚀.  
 You'll also find some Python projects that I've built for fun and to make my life a little easier 🎉.
