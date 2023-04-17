@@ -5,8 +5,8 @@
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/jacob-hollis"><img align="left" src="https://raw.githubusercontent.com/jacob-hollis/jacob-hollis/main/images/linkedin.png" alt="Jacob Hollis | LinkedIn" width="36px"/></a>
-<a href="https://www.linkedin.com/in/jacob-hollis"><img align="left" src="https://raw.githubusercontent.com/jacob-hollis/jacob-hollis/main/images/email.png" alt="Jacob Hollis | LinkedIn" width="36px"/></a>
-<a href="https://www.linkedin.com/in/jacob-hollis"><img align="left" src="https://raw.githubusercontent.com/jacob-hollis/jacob-hollis/main/images/world-wide-web.png" alt="Jacob Hollis | LinkedIn" width="36px"/></a>
+<a href="jakebhollis@gmail.com"><img align="left" src="https://raw.githubusercontent.com/jacob-hollis/jacob-hollis/main/images/email.png" alt="Jacob Hollis | LinkedIn" width="36px"/></a>
+<a href="https://github.com/Jacob-Hollis/portfolio-website/blob/main/README.md"><img align="left" src="https://raw.githubusercontent.com/jacob-hollis/jacob-hollis/main/images/world-wide-web.png" alt="Jacob Hollis | LinkedIn" width="36px"/></a>
 <br>
 <br>
   
