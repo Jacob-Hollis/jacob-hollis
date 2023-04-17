@@ -18,4 +18,4 @@ Feel free to take a look around, and have a great day! 😊
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,aws,azure,c,cs,css,django,docker,dotnet,git,github,gradle,html,java,js,kotlin,lua,mysql,postgres,py,rabbitmq,react,ruby,rails,selenium,visualstudio,vscode)](https://skillicons.dev)  
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jacob-hollis&show_icons=true&theme=blueberry)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-hollis&layout=compact&hide_progress=true&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacob-hollis&layout=compact&theme=blueberry)
