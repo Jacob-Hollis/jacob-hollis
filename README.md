@@ -1,13 +1,13 @@
 ### Hi there, welcome to my GitHub portfolio 👋
 
 Here you'll find projects I enjoy building to learn web technologies like HTML, CSS, Javascript, Ruby, Ruby on Rails, and React 🚀.  
-You'll also find some Python projects that I've built for fun and to make my life easier 🎉.  
+You'll also find some Python projects that I've built for fun and to make my life a little easier 🎉.
 
 My professional experience primarily centers in C# and .NET development, with some Java. However, you won't find most of it here, as this is where I prefer to explore new technologies.  
 
 This portfolio hosts my current open-source work that I use to expand my professional career knowledge in software engineering.  
 
-Feel free to take a look around at my work, and have a great day! 😊  
+Feel free to take a look around, and have a great day! 😊  
 
 📫 How to reach me:
 - Linkedin: [@jb-hollis](https://www.linkedin.com/in/jb-hollis/)  
