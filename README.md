@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/jacob-hollis/jacob-hollis/main/images/banner.png" alt="my banner image">
 
-<h3 align=center>Hey there, I'm Jake 👋</h3>
+<h3 align=center>Hey there, I'm Jacob (or Jake) 👋</h3>
 <h2 align=center>I'm a Full Stack Software Engineer ⚡</h2>
 
 <h3 align=left>🤝 Connect with me:</h3>
