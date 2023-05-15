@@ -16,7 +16,7 @@ Feel free to take a look around, and have a great day! 😊
 
 <h2 align=left>🔧 Languages, frameworks, and tools I'm using or have used in the past:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,aws,azure,c,cs,css,django,docker,dotnet,git,github,gradle,html,idea,java,js,kotlin,lua,mysql,postgres,py,rabbitmq,react,ruby,rails,selenium,visualstudio,vscode)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,atom,aws,azure,c,cs,css,django,docker,dotnet,git,github,gradle,html,idea,java,js,kotlin,lua,mysql,nodejs,postgres,py,rabbitmq,react,ruby,rails,selenium,visualstudio,vscode)](https://skillicons.dev)  
 
 <h2 align=left>📈 GitHub Stats:</h2>
 
