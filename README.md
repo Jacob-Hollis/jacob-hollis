@@ -20,7 +20,7 @@ Feel free to take a look around, and have a great day! 😊
 
 <h2 align=left>📈 GitHub Stats:</h2>
 
-![My GitHub stats](https://github-readme-stats-jacob-hollis.vercel.app/api?username=jacob-hollis&show_icons=true&theme=blueberry)  
-![Top Langs](https://github-readme-stats-jacob-hollis.vercel.app/api/top-langs/?username=jacob-hollis&layout=compact&theme=blueberry)  
+![My GitHub stats](https://github-readme-stats-seven-blond-10.vercel.app/api?username=jacob-hollis&show_icons=true&theme=blueberry)  
+![Top Langs](https://github-readme-stats-seven-blond-10.vercel.app/api/top-langs/?username=jacob-hollis&layout=compact&theme=blueberry)  
 
 ![](https://komarev.com/ghpvc/?username=jacob-hollis&color=blue)
