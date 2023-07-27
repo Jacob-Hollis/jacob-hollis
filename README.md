@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/jacob-hollis/jacob-hollis/main/images/banner.png" alt="my banner image">
 
-<h3 align=center>Hey there, I'm Jacob (or Jake) 👋</h3>
+<h3 align=center>Hey there, I'm Jacob (but I usually go by Jake) 👋</h3>
 <h2 align=center>I'm a Full Stack Software Engineer ⚡</h2>
 
 <h3 align=left>🤝 Connect with me:</h3>
@@ -10,7 +10,7 @@
 <br>
 <br>
   
-Here you'll find projects that I enjoy building in my free time, utilizing technologies like HTML, CSS, Javascript, Ruby on Rails, and React 🚀. You'll also find some Python projects that I've built for fun and to make my life a little easier. Although you probably won't see a lot of them here, my professional experience primarily centers in C# and .NET development, with some Java.
+Here you'll find projects that I enjoy building in my free time, utilizing technologies like HTML, CSS, Javascript, Ruby on Rails, and React 🚀. You'll also find some Python projects that I've built for fun and to make my life a little easier. Although you probably won't see a lot of them here, my professional experience primarily centers in C#, .NET, and SQL development, with some Java.
 
 Feel free to take a look around, and have a great day! 😊  
 
